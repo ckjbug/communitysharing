@@ -25,7 +25,8 @@
 - [X02-张耕源-大会宣传片02（O365AI）-第二版-高清](https://pan.baidu.com/s/1hdWwoCi4MMUsvuULFlmB6Q "X02-张耕源-大会宣传片02（O365AI）-第二版-高清")
 - [X03-张善友-大会祝词-美化+字幕](https://pan.baidu.com/s/1lle0kn9iwviNed7HEAz87w "X03-张善友-大会祝词-美化+字幕")
 - [X04-陈希章-打通 SaaS, PaaS 任督二脉的生产力云平台](https://vzan.com/live/tvchat-981208?ver=636839210971235043&shareuid=20413610&vprid=0 "X04-陈希章-打通 SaaS, PaaS 任督二脉的生产力云平台")
-
+- [打通 SaaS, PaaS 任督二脉的生产力云平台（苏州.NET成立大会）](http://www.365yg.com/i6649959516328690179/#mid=1601144744285187 "打通 SaaS, PaaS 任督二脉的生产力云平台（苏州.NET成立大会）")
+- [打通SaaS,PaaS任督二脉的生产力云平台(SZNET)](https://v.qq.com/x/page/p0831wl2z6y.html "打通SaaS,PaaS任督二脉的生产力云平台(SZNET)")
 
 #### 【相关报导】
 - [继往开来的新时代——微软技术俱乐部（苏州）成立暨技术交流会回顾](https://mp.weixin.qq.com/s/TP6W-0L2J8muOqPDH7B2_w "继往开来的新时代——微软技术俱乐部（苏州）成立暨技术交流会回顾")
